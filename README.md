@@ -1,4 +1,4 @@
 Ini adalah repository pertama saya
 Nama: Aditya Farellingga Arifin
-NIM: 12345678
-Kelas: SIB 
+NIM: 264107060172
+Kelas: SIB1G
